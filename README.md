@@ -1,5 +1,5 @@
 #ebook "sei il numero 50002"
-
+![](https://github.com/antoji/50002/raw/master/cover.jpg =100x20)
 
 Una bella chiacchierata riflessiva sulla figura del disoccupato.
 
