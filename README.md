@@ -2,6 +2,12 @@
 
 ![](http://i.imgur.com/YcUKv3c.jpg?1)
 
+Formati disponibili:
+
+[Mobi](https://github.com/antoji/50002/raw/master/Sei.il.numero.50002.-.Antonella.Giametta.mobi)
+
+[Odt](https://github.com/antoji/50002/blob/master/Sei%20il%20numero%2050002%20-%20Antonella%20Giametta.odt)
+
 Una bella chiacchierata riflessiva sulla figura del disoccupato.
 
 La trasformazione del disoccupato in cerca di un lavoro ad autore del proprio destino. La disoccupazione come problema reale creato dalla società capitalista. Questo segna l'inizio della nostra chiacchierata che cercherà una soluzione che non c'è. Non esistono soluzioni uniche e generali. Esistono persone che credono in un futuro migliore, dove ognuno può realizzarsi e trovare la propria soluzione ideale. Non esistono barriere che possono bloccare il flusso dei nostri pensieri e progetti. Le nostre competenze fungeranno da ancore per creare un nuovo modello culturale.
