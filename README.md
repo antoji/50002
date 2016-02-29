@@ -26,6 +26,6 @@ Siamo in bilico dietro un vortice di libertà.
 
 Ci hanno tolto la libertà di scegliere con la propria testa. Le nostre scelte formative, lavorative non rispecchiano i nostri interessi o almeno non totalmente. Allora che fare? Lavoriamo per riacquistare la nostra capacità decisionale.
 
-Contattami per ricevere il tuo openbadge "sei il numero 50002" o per segnalarmi errori.
+Contattami per ricevere l'openbadge "sei il numero 50002" o per segnalarmi errori.
 Grazie a tutti
 
