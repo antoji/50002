@@ -6,7 +6,11 @@ Formati disponibili:
 
 [Mobi](https://github.com/antoji/50002/raw/master/Sei.il.numero.50002.-.Antonella.Giametta.mobi)
 
-[Odt](https://github.com/antoji/50002/blob/master/Sei%20il%20numero%2050002%20-%20Antonella%20Giametta.odt)
+[Pdf](https://github.com/antoji/50002/raw/master/Sei.il.numero.50002.-.Antonella.Giametta.pdf)
+
+[Epub](https://github.com/antoji/50002/raw/master/Sei.il.numero.50002.-.Antonella.Giametta.epub)
+
+[Odt](https://github.com/antoji/50002/raw/master/Sei%20il%20numero%2050002.%20-%20Antonella%20Giametta.odt)
 
 Una bella chiacchierata riflessiva sulla figura del disoccupato.
 
